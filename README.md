@@ -11,7 +11,7 @@ Once a beloved small [Counter-Strike 2](https://store.steampowered.com/app/730) 
 <br> **Maximum players:** 32 (16 per team)
 
 ## Gallery
-![Screenshot 4 (Compressed)](https://github.com/user-attachments/assets/91f390aa-167d-4403-a31e-b1df71ea865e)
+![Screenshot 4 (Compressed)](https://github.com/user-attachments/assets/40c6c73e-cec3-4f3f-8ecf-0b157bdd236c)
 
 ## License
 Do whatever you want. I don't care.
