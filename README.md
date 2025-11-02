@@ -4,6 +4,9 @@ Once a beloved small [Counter-Strike 2](https://store.steampowered.com/app/730) 
 > [!IMPORTANT]
 > **There is a third-party software used here.** To have full compatibility, see [RadGen](https://radargenerator.github.io/).
 
+## Themes
+A couple of themes are available for this map: [Dust](https://github.com/redesaile/cs2-legacy-fy-dust) and **Aztec** (coming soon).
+
 ## Details
 **Game scenario:** Fight Yard
 <br> **Supported game modes:** Classic, Deathmatch, Arms Race, Wingman, Custom
