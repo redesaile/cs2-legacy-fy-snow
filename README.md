@@ -1,5 +1,5 @@
 # Snow
-Once a beloved small [Counter-Strike 2](https://store.steampowered.com/app/730) map, perfect for quick team vs. team battles.
+A small map once beloved by the [Counter-Strike](https://store.steampowered.com/app/10) community is now available for [Counter-Strike 2](https://store.steampowered.com/app/730) in its almost original form.
 
 > [!IMPORTANT]
 > **There is a third-party software used here.** To have full compatibility, see [RadGen](https://radargenerator.github.io/).
