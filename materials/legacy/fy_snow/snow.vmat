@@ -33,11 +33,6 @@ Layer0
 	g_nTextureAddressModeU "0" // Wrap
 	g_nTextureAddressModeV "0" // Wrap
 
-	Attributes
-	{
-		PreviewModel "materials/ar_baggage/cart/airport_bag_cart_3.vmdl"
-	}
-
 	SystemAttributes
 	{
 		PhysicsSurfaceProperties "snow"
